@@ -1,0 +1,20 @@
+Dec  3 20:00:21 jeudi 3 décembre 2015, 20:00:21 (UTC+0100)
+Dec  3 20:00:21 In Lexington, Kentucky, it's illegal to carry an ice cream cone in your pocket.
+Dec  3 20:00:22 Good evening GCLC !
+Dec  3 20:00:31 those first 24 hours has been challenging for everybody !
+Dec  3 20:00:41 as usual, Murphy Law brought to happen things we never expected. changing the content we inject is nethertheless eseential to help you have the most robust and complete solution.
+Dec  3 20:00:59 An important word about data processing :
+Dec  3 20:01:09 the sequence must be respected :
+Dec  3 20:01:18 - you MUST process data on the raspberry : it's forbidden to just "tunnel" data to the VM. In a "real life" context, Time Zones may differ between the raspberry and the VM, and it's essential that the data have the right timing.
+Dec  3 20:01:28 - the way you send it to the VMs is entirely free : realtime or batched, compressed or not, verified or not, you can chose the most efficient way.
+Dec  3 20:01:46 The reminders are still :
+Dec  3 20:01:56 - don't forget to push your code to bitbucket
+Dec  3 20:02:05 - please comment your code to help us understand and analyze it
+Dec  3 20:02:15 - if you already applied green patterns, think about sharing them
+Dec  3 20:02:24 - don't forget to make the buzz about your team and the challenge
+Dec  3 20:02:34 - please close your ticket when you feel it is solved
+Dec  3 20:02:52 |-> You must reset or overwrite your previous gclc.log <-|
+Dec  3 20:03:02 |-> Special chars may be injected, your must parse them <-|
+Dec  3 20:03:20 Whenever possible, please give us your team number, it will help us connect quickly to your Raspberry or VM.
+Dec  3 20:03:39 I see that trying to make you sing was a lame idea (or, diff finally rickrolled us).
+Dec  3 20:03:57 Use your remaining time wisely, appropriate food, drinks and sleep are essential.
